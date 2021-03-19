@@ -1,6 +1,7 @@
 # Document-scanner
-<p float="middle">
+<p float="left">
   
-<img src="https://github.com/rodrigourquizo/Document-scanner-/blob/master/images/contours.JPG" width="500" height="700"> <img src="https://github.com/rodrigourquizo/Document-scanner-/blob/master/images/scanned.JPG" width="500" height="700">
+<img src="https://github.com/rodrigourquizo/Document-scanner-/blob/master/images/contours.JPG" width="200" height="200"> 
+<img src="https://github.com/rodrigourquizo/Document-scanner-/blob/master/images/scanned.JPG" width="200" height="200">
  
 </p>
