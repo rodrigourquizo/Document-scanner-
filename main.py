@@ -2,7 +2,7 @@ import numpy as np
 import cv2
 from utils import show, biggest_contour, four_point_transform, image_edges,order_points
 
-path = "C:/Users/Usuario/PycharmProjects/Project/444.jpg"
+path = "/images/original.jpg"
 image = cv2.imread(path)
 image = cv2.resize(image, (image.shape[1]//5,image.shape[0]//5))
 edge = image_edges(image)
